@@ -1,4 +1,4 @@
 .env
 __pycache__/
 *.pyc
-butce_takip.py
+budget_tracker.py
